@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12717" started-at="2018-10-30T16:30:59Z" finished-at="2018-10-30T16:31:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12717" started-at="2018-10-30T16:30:59Z" finished-at="2018-10-30T16:31:11Z">
+      <class name="simpleDemo.simpleTest">
+        <test-method status="PASS" signature="InitializeDriver()[pri:0, instance:simpleDemo.simpleTest@457e2f02]" name="InitializeDriver" is-config="true" duration-ms="8919" started-at="2018-10-30T22:00:59Z" finished-at="2018-10-30T22:01:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeDriver -->
+        <test-method status="PASS" signature="Test5()[pri:0, instance:simpleDemo.simpleTest@457e2f02]" name="Test5" duration-ms="2237" started-at="2018-10-30T22:01:08Z" finished-at="2018-10-30T22:01:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method status="PASS" signature="QuitDriver()[pri:0, instance:simpleDemo.simpleTest@457e2f02]" name="QuitDriver" is-config="true" duration-ms="1096" started-at="2018-10-30T22:01:10Z" finished-at="2018-10-30T22:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitDriver -->
+      </class> <!-- simpleDemo.simpleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
